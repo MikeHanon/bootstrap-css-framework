@@ -36,9 +36,20 @@ section{
 .hero{
     background-image: url(../images/corner-table-1168607_1280.jpg);
     height:400px;
-    background-position: center;
+    background-position: bottom;
     background-size: cover;
 }
 .card{
     width: 30rem;
+}
+.jumbotron > h1{
+    color:#07070D;
+    text-align: center;
+    font-size:100px
+}
+.menu{
+    background-color: #739CBF
+}
+.hero-title{
+    background-color: rgb(255, 255, 255, 0.5)
 }
