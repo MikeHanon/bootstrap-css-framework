@@ -1,9 +1,32 @@
 body{
-    color:#739CBF
+    margin:0;
+    padding:0;
 }
 a{
     color:#739CBF,
 }
 .logo > img{
-    width:25%
+    width:10%
+}
+
+.social-media > ul > li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    font-size:20px;
+}
+.nav-link, .social-media > ul > li >a, p{
+    color:#739CBF;
+}
+h1, h2, h3{
+    color: #D9310B;
+}
+header{
+    border-bottom: 3px solid #D9310B
+}
+footer{
+    border-top: 3px solid #D9310B;
+}
+section{
+    padding: 15px;
 }
