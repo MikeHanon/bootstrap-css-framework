@@ -18,10 +18,10 @@ a{
     margin: 20px;
     font-size:20px;
 }
-.nav-link, .social-media > ul > li >a, p{
+.nav-link, .social-media > ul > li >a, p, h1{
     color:#739CBF;
 }
-h1, h2, h3{
+h2, h3{
     color: #D9310B;
 }
 header{
@@ -32,4 +32,13 @@ footer{
 }
 section{
     padding: 15px;
+}
+.hero{
+    background-image: url(../images/corner-table-1168607_1280.jpg);
+    height:400px;
+    background-position: center;
+    background-size: cover;
+}
+.card{
+    width: 30rem;
 }
