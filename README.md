@@ -4,7 +4,7 @@ Réalisation d'un site web multi-page a l'aide du framework bootstrap 4
 
 **A quoi ça ressemble ?** [site](https://mikehanon.github.io/bootstrap-css-framework/.)
 
-<img src="../images/screenshot.png" style="width:30%;">
+<img src="images/screenshot.png" style="width:30%;">
 
 
 
