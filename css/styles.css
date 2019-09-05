@@ -6,9 +6,6 @@ body, html, nav, header, footer, .row{
 .bg-black{
     background-color:#07070D;
 }
-a{
-    color:#739CBF,
-}
 .logo > img{
     width:20%
 }
@@ -19,8 +16,8 @@ a{
     
     font-size:20px;
 }
-.nav-link, .social-media > ul > li >a, p, h1{
-    color:#739CBF;
+a, .nav-link, .social-media > ul > li >a, p, h1{
+    color:rgb(8, 56, 97);
 }
 h2, h3{
     color: #D9310B;
